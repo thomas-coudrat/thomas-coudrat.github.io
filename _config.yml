@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Thomas Coudrat
 tagline:          'Thomas Coudrat'
-description:      'PhD candidate. structural & computational biology | computer-aided drug discovery'
+description:      'Structural & computational biology | computer-aided drug discovery'
 url:              http://thomas-coudrat.github.io
 baseurl:          /
 
