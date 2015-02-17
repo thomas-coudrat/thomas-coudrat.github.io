@@ -251,9 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Thomas' theme */
 .theme-base-tom .sidebar {
-  background-color: #2266cc;
+  background-color: #0078c1;
 }
 .theme-base-tom .content a,
 .theme-base-tom .related-posts li a:hover {
-  color: #2266cc;
+  color: #0078c1;
 }
