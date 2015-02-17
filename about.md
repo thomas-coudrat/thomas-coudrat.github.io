@@ -16,7 +16,3 @@ working in [Prof. Patrick Sexton's laboratory](http://www.monash.edu/pharm/resea
 COMBINE ...
 
 Monash Parkville Forum ...
-
-### Web
-* [GitHub](https://github.com/thomas-coudrat)
-* [Twitter](https://twitter.com/TomSilico)
