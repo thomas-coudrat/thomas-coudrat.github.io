@@ -10,10 +10,10 @@ have been helping out with Python programming, and am currently improving my
 knowledge of Git.
 
 With the tool centric format of this conference, I found myself sharing
-information about our favorite tools more easily. That was further
+information about our favourite tools more easily. That was further
 facilitated by a "research tools" poster session, all attendees were asked to
-fill out a poster template that focusses on they use, and what they do with
-them.
+fill out a poster template that focusses on what they use, and what they do
+with them.
 
 I have been wanting to start a simple website for a while, in order to have a
 landing page that I control, and possibly to have a medium where I can share
