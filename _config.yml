@@ -14,15 +14,15 @@ url:              http://thomas-coudrat.github.io
 baseurl:          /
 
 author:
-  name:           'Thomas Coudrat'
-  url:            https://twitter.com/TomSilico
+    name:           'Thomas Coudrat'
+    url:            https://twitter.com/TomSilico
 
 timezone:         Australia/Melbourne
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
     repo:         https://github.com/thomas-coudrat/thomas-coudrat.github.io
