@@ -9,13 +9,15 @@ relative_permalinks: true
 # Setup
 title:            Thomas Coudrat
 tagline:          'Thomas Coudrat'
-description:      'Structural & computational biology | computer-aided drug discovery'
+description:      'Structural & computational biology | Computer-aided drug discovery'
 url:              http://thomas-coudrat.github.io
 baseurl:          /
 
 author:
   name:           'Thomas Coudrat'
   url:            https://twitter.com/TomSilico
+
+timezone:         Australia/Melbourne
 
 paginate:         5
 
