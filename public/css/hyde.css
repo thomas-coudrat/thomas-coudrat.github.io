@@ -99,6 +99,28 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/*
+ * Centering images, to be used in img tags
+ */
+.imgCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+ * Getting the twitter and github icons centered
+ */
+.links_wrapper {
+    margin:auto;
+    text-align:center;
+}
+
+.icon_links {
+    display:inline-block;
+}
+
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
