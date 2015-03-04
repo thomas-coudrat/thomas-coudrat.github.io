@@ -17,4 +17,6 @@ I joined COMBINE in August 2013, and have been taking care of the web & comm asp
 great group of people in organising workshops, seminars and social events. My latest highlight with COMBINE was organising and chairing the
 [2014 COMBINE Student Symposium](http://combine.org.au/2015/01/10/2014-wrap-up-with-a-two-day-event-combine-student-symposium-and-python-workshop/)
 
-Monash Parkville Forum
+**Monash Parkville Forum** more info soon
+
+**Software Carpentry** more info soon
