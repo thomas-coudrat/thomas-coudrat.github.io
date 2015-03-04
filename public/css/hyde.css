@@ -34,12 +34,12 @@
 html {
   font-family: "Courier New", Courier, monospace;
 }
-@media (min-width: 30em) {
+@media (min-width: 48em) {
   html {
     font-size: 12px;
   }
 }
-@media (min-width: 40em) {
+@media (min-width: 58em) {
   html {
     font-size: 14px;
   }
@@ -247,13 +247,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
-}
-
-/* Thomas' theme */
-.theme-base-tom .sidebar {
-  background-color: #0078c1;
-}
-.theme-base-tom .content a,
-.theme-base-tom .related-posts li a:hover {
-  color: #0078c1;
 }
