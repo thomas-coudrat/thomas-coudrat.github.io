@@ -3,6 +3,8 @@ layout: page
 title: about
 ---
 
+[]()
+
 ### Research
 
 My work investigates G Protein-Coupled Receptor (GPCR) structure and dynamics, a key target for therapeutic intervention.

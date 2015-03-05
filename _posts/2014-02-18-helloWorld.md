@@ -3,6 +3,8 @@ layout: post
 title: My hello world post, thanks to ResBaz
 ---
 
+[]()
+
 I am currently attending the [ResBaz conference](http://melbourne.resbaz.edu.au/conference)
 in Melbourne, a great initiative that brings together multidisciplinary researchers who have a
 common goal of learning about and sharing their knowledge of digital tools. I

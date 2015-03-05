@@ -4,7 +4,7 @@
  <title>Thomas Coudrat</title>
  <link href="http://thomas-coudrat.github.io/atom.xml" rel="self"/>
  <link href="http://thomas-coudrat.github.io/"/>
- <updated>2015-03-04T20:00:58+11:00</updated>
+ <updated>2015-03-05T14:00:52+11:00</updated>
  <id>http://thomas-coudrat.github.io</id>
  <author>
    <name>Thomas Coudrat</name>
@@ -17,7 +17,9 @@
    <link href="http://thomas-coudrat.github.io/2014/02/18/helloWorld/"/>
    <updated>2014-02-18T00:00:00+11:00</updated>
    <id>http://thomas-coudrat.github.io/2014/02/18/helloWorld</id>
-   <content type="html">&lt;p&gt;I am currently attending the &lt;a href=&quot;http://melbourne.resbaz.edu.au/conference&quot;&gt;ResBaz conference&lt;/a&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I am currently attending the &lt;a href=&quot;http://melbourne.resbaz.edu.au/conference&quot;&gt;ResBaz conference&lt;/a&gt;
 in Melbourne, a great initiative that brings together multidisciplinary researchers who have a
 common goal of learning about and sharing their knowledge of digital tools. I
 have been helping out with Python programming, and am currently improving my
