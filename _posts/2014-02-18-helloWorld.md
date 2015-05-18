@@ -14,7 +14,7 @@ knowledge of Git.
 With the tool centric format of this conference, I found myself sharing
 information about favourite tools more easily. That was further
 facilitated by a "research tools" poster session, all attendees were asked to
-fill out a poster template that focusses on the tools they use, and what they do
+fill out a poster template that focuses on the tools they use, and what they do
 with them.
 
 I have been wanting to start a simple website for a while, in order to have a
